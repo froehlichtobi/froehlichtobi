@@ -1,7 +1,7 @@
 ## Hi👋 My name is Tobias Fröhlich
 
 🌱 I’m currently learning to code and working on my final project for the cs50 online course.
-Check it out at https://breathhold3000.web.app/
+Check it out at [BreathHold3000](https://breathhold3000.web.app/)
 <!--
 **froehlichtobi/froehlichtobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
